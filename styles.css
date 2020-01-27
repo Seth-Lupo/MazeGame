@@ -1,0 +1,115 @@
+
+#headerDiv {
+
+	background: rgb(200, 205, 210);
+
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+
+	text-align: center;
+
+	width: 400px;
+
+	padding: 30px 30px 30px 30px;
+
+	border: solid;
+	border-width: 10px;
+	border-radius: 20px;
+
+	z-index: 1;
+
+}
+
+#infoDiv {
+
+	background: rgb(200, 205, 210);
+
+	position: absolute;
+
+	top: 200px;
+	left: 50px;
+
+	text-align: left;
+
+	width: 250px;
+
+	padding: 30px 30px 30px 30px;
+
+	border: solid;
+	border-width: 10px;
+	border-radius: 20px;
+
+	z-index: 1;
+
+}
+
+#controlList {
+
+	font-size: 18px;
+
+}
+
+#optionsDiv {
+
+	background: rgb(200, 205, 210);
+
+	position: absolute;
+
+	top: 200px;
+	right: 50px;
+
+	text-align: left;
+
+	width: 280px;
+
+	padding: 30px 30px 30px 30px;
+
+	border: solid;
+	border-width: 10px;
+	border-radius: 20px;
+
+	z-index: 1;
+
+}
+
+#lighting {
+
+	font-size: 18px;
+
+}
+
+#difficulty {
+
+	font-size: 18px;
+
+}
+
+#header {
+
+	font-size: 46px;
+
+}
+
+#playButton {
+
+	display: block;
+
+	margin-top: 75px; 
+	margin-left: auto;
+	margin-right: auto;
+
+	text-align: center;
+
+	width: 300px;
+	height: 200px;
+
+	font-size: 52px;
+
+}
+
+.optionLabels {
+
+	font-size: 18px;
+
+}
